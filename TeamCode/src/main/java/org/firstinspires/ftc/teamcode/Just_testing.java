@@ -28,6 +28,7 @@ public class Just_testing extends OpMode {
     public void loop() {
         double lift_pow = gamepad1.right_trigger;
         double lift_pow2 = -gamepad1.left_trigger;
+        double x = 2;
 
 
         Test.leftDrive.setPower(gamepad1.left_stick_y);
