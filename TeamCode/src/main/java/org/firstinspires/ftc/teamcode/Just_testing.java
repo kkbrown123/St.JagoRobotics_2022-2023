@@ -7,7 +7,7 @@ import com.qualcomm.robotcore.util.Range;
 @TeleOp (name = "Motor", group = "TeleOp")
 
 public class Just_testing extends OpMode {
-
+//what the hell
     Robot_Hardware Test = new Robot_Hardware();
     private ElapsedTime runtime = new ElapsedTime();
 
